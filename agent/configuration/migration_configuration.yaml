@@ -1,0 +1,62 @@
+project:
+  git_cloning_enabled: No
+  source_repo_url: TBD
+  source_branch: TBD
+  target_repo_url: TBD
+  target_branch: TBD
+  #source_repo_url: https://github.com/avinash/source-project.git
+  #source_branch: main
+  #target_repo_url: https://github.com/avinash/target-project.git
+  #target_branch: main
+  local_path_enabled: Yes
+  source_path: "/home/avinash/code-migrator-poc/sample/source-springboot-application"
+  target_path: "/home/avinash/code-migrator-poc/sample/target"
+
+migration_old:
+  # Mappings from source packages to target packages
+  package_mappings:
+    com.avinash.poc.source.controller: com.avinash.poc.target.api
+    com.avinash.poc.source.service: com.avinash.poc.target.api
+    com.avinash.poc.source.util: com.avinash.poc.target.config
+
+  # Optional: Files (relative to source root) that should NOT be migrated
+  exclude_files:
+    - EnvConfigUtil.java
+    - SourceSpringbootApplicationTests.java
+
+migration:
+  class_exclusion_list:
+    - EnvConfigUtil.java
+    - SourceSpringbootApplicationTests.java
+  allowed_extensions:
+    - .java
+  class_level_migration_mapping:
+    com.avinash.poc.source.controller.Util: com.avinash.poc.target.config.Util
+    com.avinash.poc.source.service.ExampleConstant: com.avinash.poc.target.config.ExampleConstant
+
+  package_level_migration_mapping:
+    com.avinash.poc.source.controller: com.avinash.poc.target.api
+    com.avinash.poc.source.service: com.avinash.poc.target.api
+    com.avinash.poc.source.util: com.avinash.poc.target.config
+  # Optional: Property access pattern rewrites
+  refactorings:
+    - file: EnvConfigUtil
+      import_mapping:
+        com.avinash.poc.target.config.EnvConfigUtil: org.springframework.core.env.Environment
+      instance_mapping:
+        EnvConfigUtil: Environment
+      method_mapping:
+        envConfigUtil.getProperty: environment.getProperty
+        envConfigUtil.getInteger: Integer.parseInt(environment.getProperty)
+    - file: AnotherUtil
+      import_mapping:
+        com.example.source.AnotherUtil: com.example.target.NewUtil
+      instance_mapping:
+        AnotherUtil: NewUtil
+      method_mapping:
+        oldMethod: newMethod
+
+  # Optional: Reactive method detection (handled by Copilot, but good to track)
+  reactive_to_non_reactive:
+    enable: true
+    notes: "Will use GitHub Copilot via IntelliJ plugin to refactor reactive methods"

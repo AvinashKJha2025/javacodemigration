@@ -1,0 +1,53 @@
+=== Migration Summary Report ===
+
+Source Path: /home/avinash/code-migrator-poc/sample/source-springboot-application
+Target Path: /home/avinash/code-migrator-poc/sample/target
+Elapsed Time (Automated): 0.01 minutes
+Build Status: Success
+
+-- Migration Inputs --
+{
+  "class_level_mapping": {
+    "com.avinash.poc.source.controller.Util": "com.avinash.poc.target.config.Util",
+    "com.avinash.poc.source.service.ExampleConstant": "com.avinash.poc.target.config.ExampleConstant"
+  },
+  "package_level_mapping": {
+    "com.avinash.poc.source.controller": "com.avinash.poc.target.api",
+    "com.avinash.poc.source.service": "com.avinash.poc.target.api",
+    "com.avinash.poc.source.util": "com.avinash.poc.target.config"
+  },
+  "excluded_files": [
+    "EnvConfigUtil.java",
+    "SourceSpringbootApplicationTests.java"
+  ]
+}
+-- Changes Made --
+Migrated class: com.avinash.poc.source.controller.Util → com.avinash.poc.target.config.Util
+Migrated class: com.avinash.poc.source.service.ExampleConstant → com.avinash.poc.target.config.ExampleConstant
+Copied file: HelloWorldController.java from package com.avinash.poc.source.controller to package com.avinash.poc.target.api
+Copied file: RefactoredHelloWorldController.java from package com.avinash.poc.source.controller to package com.avinash.poc.target.api
+Copied file: HelloWorldService.java from package com.avinash.poc.source.service to package com.avinash.poc.target.api
+Updated source project import to target project import: com.avinash.poc.source.util -> com.avinash.poc.target.config for class HelloWorldController 
+Updated import: com.avinash.poc.target.config.EnvConfigUtil -> org.springframework.core.env.Environment
+Replaced instance: EnvConfigUtil -> Environment
+Replaced method: envConfigUtil.getProperty -> environment.getProperty
+Added TODO Prompt for reactive to nonreactive conversion in method :  delayedNumbers
+Added TODO Prompt for reactive to nonreactive conversion in method :  reactiveNumbers
+Added TODO Prompt for reactive to nonreactive conversion in method :  reactiveHello
+
+-- Refactored Counts --
+{
+  "update_imports_count": 2,
+  "replace_injected_reference_count": 1,
+  "refactor_env_config_util_count": 4,
+  "add_reactive_method_prompts_count": 3
+}
+-- Migration Counts --
+{
+  "migration_count": 5
+}
+-- Estimated Time Savings & Efficiency --
+Manual Migration Estimate: 34 minutes
+Actual Time Taken: 0.01 minutes
+Time Saved: 33.99 minutes
+Efficiency Gain: 99.97%
