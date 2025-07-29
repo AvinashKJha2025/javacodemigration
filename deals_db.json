@@ -1,0 +1,818 @@
+{
+  "travel": [
+    {
+      "description": "Weekend Gateway Package - 30% off on 2-night stays at luxury resorts",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-03-31",
+      "deal_code": "TRAVEL001",
+      "saving_amount": "$150",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "Luxury Escapes"
+    },
+    {
+      "description": "Short Term Stay - 25% discount on vacation rentals for 3+ days",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-15",
+      "deal_code": "TRAVEL002",
+      "saving_amount": "$200",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "VacationRentals.com"
+    },
+    {
+      "description": "Mountain Retreat - 40% off on cabin bookings in Colorado",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-30",
+      "deal_code": "TRAVEL003",
+      "saving_amount": "$300",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "Mountain Cabins Co"
+    },
+    {
+      "description": "Beach Getaway - 35% savings on coastal hotel bookings",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-06-30",
+      "deal_code": "TRAVEL004",
+      "saving_amount": "$250",
+      "deal_location": "Hawaii",
+      "deal_pincode": "96815",
+      "deal_vendor": "Beach Resorts Inc"
+    },
+    {
+      "description": "City Break - 20% off on urban hotel stays in major cities",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-04-30",
+      "deal_code": "TRAVEL005",
+      "saving_amount": "$120",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Urban Hotels"
+    },
+    {
+      "description": "Adventure Package - 30% discount on outdoor activity tours",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "TRAVEL006",
+      "saving_amount": "$180",
+      "deal_location": "Utah",
+      "deal_pincode": "84101",
+      "deal_vendor": "Adventure Tours"
+    },
+    {
+      "description": "Spa Retreat - 25% off on wellness resort packages",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-05-15",
+      "deal_code": "TRAVEL007",
+      "saving_amount": "$220",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Wellness Resorts"
+    },
+    {
+      "description": "Family Vacation - 35% savings on family-friendly resorts",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "TRAVEL008",
+      "saving_amount": "$280",
+      "deal_location": "Texas",
+      "deal_pincode": "73301",
+      "deal_vendor": "Family Resorts"
+    },
+    {
+      "description": "Romantic Getaway - 40% off on couples retreat packages",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-06-30",
+      "deal_code": "TRAVEL009",
+      "saving_amount": "$320",
+      "deal_location": "Vermont",
+      "deal_pincode": "05601",
+      "deal_vendor": "Romantic Escapes"
+    },
+    {
+      "description": "Business Travel - 20% discount on extended stay accommodations",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-12-31",
+      "deal_code": "TRAVEL010",
+      "saving_amount": "$160",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Business Stays"
+    }
+  ],
+  "events": [
+    {
+      "description": "NBA Finals Tickets - 25% off on premium seating for championship games",
+      "start_date": "2024-05-01",
+      "expiry_date": "2024-06-30",
+      "deal_code": "EVENT001",
+      "saving_amount": "$200",
+      "deal_location": "California",
+      "deal_pincode": "90015",
+      "deal_vendor": "Sports Tickets Pro"
+    },
+    {
+      "description": "Taylor Swift Concert - 30% discount on VIP packages",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-08-31",
+      "deal_code": "EVENT002",
+      "saving_amount": "$350",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Concert Masters"
+    },
+    {
+      "description": "Broadway Show - 40% off on premium theater tickets",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-07-31",
+      "deal_code": "EVENT003",
+      "saving_amount": "$180",
+      "deal_location": "New York",
+      "deal_pincode": "10036",
+      "deal_vendor": "Broadway Tickets"
+    },
+    {
+      "description": "Book Fair - 50% discount on entry passes and book purchases",
+      "start_date": "2024-04-01",
+      "expiry_date": "2024-04-30",
+      "deal_code": "EVENT004",
+      "saving_amount": "$75",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Literary Events"
+    },
+    {
+      "description": "Comic Con - 35% off on weekend passes and merchandise",
+      "start_date": "2024-06-01",
+      "expiry_date": "2024-07-31",
+      "deal_code": "EVENT005",
+      "saving_amount": "$120",
+      "deal_location": "California",
+      "deal_pincode": "92101",
+      "deal_vendor": "Comic Con International"
+    },
+    {
+      "description": "Jazz Festival - 30% discount on multi-day passes",
+      "start_date": "2024-05-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "EVENT006",
+      "saving_amount": "$90",
+      "deal_location": "Louisiana",
+      "deal_pincode": "70112",
+      "deal_vendor": "Jazz Festivals"
+    },
+    {
+      "description": "Food & Wine Festival - 25% off on tasting packages",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-10-31",
+      "deal_code": "EVENT007",
+      "saving_amount": "$150",
+      "deal_location": "California",
+      "deal_pincode": "94558",
+      "deal_vendor": "Culinary Events"
+    },
+    {
+      "description": "Tech Conference - 40% discount on professional development passes",
+      "start_date": "2024-04-15",
+      "expiry_date": "2024-11-30",
+      "deal_code": "EVENT008",
+      "saving_amount": "$400",
+      "deal_location": "Nevada",
+      "deal_pincode": "89101",
+      "deal_vendor": "Tech Conferences"
+    },
+    {
+      "description": "Art Exhibition - 30% off on gallery tours and workshops",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-12-31",
+      "deal_code": "EVENT009",
+      "saving_amount": "$60",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Art Galleries"
+    },
+    {
+      "description": "Film Festival - 35% discount on movie passes and screenings",
+      "start_date": "2024-08-01",
+      "expiry_date": "2024-12-31",
+      "deal_code": "EVENT010",
+      "saving_amount": "$85",
+      "deal_location": "Utah",
+      "deal_pincode": "84101",
+      "deal_vendor": "Film Festivals"
+    }
+  ],
+  "health": [
+    {
+      "description": "Comprehensive Health Check-up - 40% off on full body screening",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-06-30",
+      "deal_code": "HEALTH001",
+      "saving_amount": "$200",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "HealthFirst Clinics"
+    },
+    {
+      "description": "Fitness Equipment - 30% discount on home gym equipment",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-31",
+      "deal_code": "HEALTH002",
+      "saving_amount": "$300",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Fitness Pro"
+    },
+    {
+      "description": "Smart Watch - 25% off on fitness and health wearables",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-30",
+      "deal_code": "HEALTH003",
+      "saving_amount": "$150",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "TechHealth"
+    },
+    {
+      "description": "Wellness Spa Package - 35% discount on massage and therapy sessions",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "HEALTH004",
+      "saving_amount": "$180",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Wellness Centers"
+    },
+    {
+      "description": "Dental Check-up - 30% off on cleaning and examination",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "HEALTH005",
+      "saving_amount": "$120",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Dental Care Plus"
+    },
+    {
+      "description": "Yoga Classes - 40% discount on monthly membership",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-06-30",
+      "deal_code": "HEALTH006",
+      "saving_amount": "$80",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "Yoga Studios"
+    },
+    {
+      "description": "Nutrition Consultation - 25% off on diet planning services",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-05-31",
+      "deal_code": "HEALTH007",
+      "saving_amount": "$100",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Nutrition Experts"
+    },
+    {
+      "description": "Physical Therapy - 35% discount on rehabilitation sessions",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "HEALTH008",
+      "saving_amount": "$140",
+      "deal_location": "Washington",
+      "deal_pincode": "98101",
+      "deal_vendor": "Rehab Centers"
+    },
+    {
+      "description": "Mental Health Counseling - 30% off on therapy sessions",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-07-31",
+      "deal_code": "HEALTH009",
+      "saving_amount": "$90",
+      "deal_location": "Massachusetts",
+      "deal_pincode": "02101",
+      "deal_vendor": "Mental Wellness"
+    },
+    {
+      "description": "Sports Medicine - 25% discount on injury treatment",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-08-31",
+      "deal_code": "HEALTH010",
+      "saving_amount": "$160",
+      "deal_location": "Pennsylvania",
+      "deal_pincode": "19101",
+      "deal_vendor": "Sports Medicine Clinics"
+    }
+  ],
+  "financial": [
+    {
+      "description": "Home Loan - 0.5% lower interest rate on mortgage applications",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-06-30",
+      "deal_code": "FINANCE001",
+      "saving_amount": "$5000",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "Home Loan Bank"
+    },
+    {
+      "description": "Credit Card - 0% APR for 18 months on balance transfers",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-31",
+      "deal_code": "FINANCE002",
+      "saving_amount": "$300",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Credit Union Plus"
+    },
+    {
+      "description": "Personal Loan - 2% lower interest rate for existing customers",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-30",
+      "deal_code": "FINANCE003",
+      "saving_amount": "$800",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Personal Finance Co"
+    },
+    {
+      "description": "New Account Bonus - $300 cash bonus for opening checking account",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "FINANCE004",
+      "saving_amount": "$300",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Community Bank"
+    },
+    {
+      "description": "Auto Loan - 1% lower interest rate on vehicle financing",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "FINANCE005",
+      "saving_amount": "$1200",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Auto Finance Bank"
+    },
+    {
+      "description": "Business Loan - 1.5% lower rate for small business owners",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-06-30",
+      "deal_code": "FINANCE006",
+      "saving_amount": "$2000",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "Business Finance"
+    },
+    {
+      "description": "Student Loan Refinance - 2% lower interest rate",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "FINANCE007",
+      "saving_amount": "$1500",
+      "deal_location": "Massachusetts",
+      "deal_pincode": "02101",
+      "deal_vendor": "Student Loan Refi"
+    },
+    {
+      "description": "Investment Account - $100 bonus for opening IRA account",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-05-31",
+      "deal_code": "FINANCE008",
+      "saving_amount": "$100",
+      "deal_location": "Washington",
+      "deal_pincode": "98101",
+      "deal_vendor": "Investment Bank"
+    },
+    {
+      "description": "Credit Line Increase - 50% higher credit limit for qualified customers",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-07-31",
+      "deal_code": "FINANCE009",
+      "saving_amount": "$500",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Credit Line Bank"
+    },
+    {
+      "description": "Family Account Package - $500 bonus for family banking setup",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-08-31",
+      "deal_code": "FINANCE010",
+      "saving_amount": "$500",
+      "deal_location": "Pennsylvania",
+      "deal_pincode": "19101",
+      "deal_vendor": "Family Banking"
+    }
+  ],
+  "automotive": [
+    {
+      "description": "New Car Purchase - $3000 cashback on select models",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-06-30",
+      "deal_code": "AUTO001",
+      "saving_amount": "$3000",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "Premium Auto Dealers"
+    },
+    {
+      "description": "Motorcycle - 15% discount on all motorcycle models",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-31",
+      "deal_code": "AUTO002",
+      "saving_amount": "$2500",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Motorcycle World"
+    },
+    {
+      "description": "Car Accessories - 30% off on all automotive accessories",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-30",
+      "deal_code": "AUTO003",
+      "saving_amount": "$200",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Auto Accessories Pro"
+    },
+    {
+      "description": "Tire Sale - 25% discount on premium tire brands",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "AUTO004",
+      "saving_amount": "$400",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Tire Masters"
+    },
+    {
+      "description": "Car Maintenance - 20% off on service packages",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "AUTO005",
+      "saving_amount": "$150",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Auto Service Center"
+    },
+    {
+      "description": "Electric Vehicle - $5000 tax credit on EV purchases",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-12-31",
+      "deal_code": "AUTO006",
+      "saving_amount": "$5000",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "EV Dealers"
+    },
+    {
+      "description": "Car Insurance - 15% discount on comprehensive coverage",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "AUTO007",
+      "saving_amount": "$300",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Auto Insurance Co"
+    },
+    {
+      "description": "Car Audio - 35% off on premium sound systems",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-05-31",
+      "deal_code": "AUTO008",
+      "saving_amount": "$500",
+      "deal_location": "Washington",
+      "deal_pincode": "98101",
+      "deal_vendor": "Car Audio Pro"
+    },
+    {
+      "description": "Car Detailing - 25% discount on premium detailing packages",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-07-31",
+      "deal_code": "AUTO009",
+      "saving_amount": "$100",
+      "deal_location": "Massachusetts",
+      "deal_pincode": "02101",
+      "deal_vendor": "Detail Masters"
+    },
+    {
+      "description": "Car Rental - 30% off on weekly car rentals",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-08-31",
+      "deal_code": "AUTO010",
+      "saving_amount": "$200",
+      "deal_location": "Pennsylvania",
+      "deal_pincode": "19101",
+      "deal_vendor": "Rental Car Co"
+    }
+  ],
+  "fashion": [
+    {
+      "description": "Designer Apparel - 40% off on premium clothing brands",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-06-30",
+      "deal_code": "FASHION001",
+      "saving_amount": "$200",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "Luxury Fashion House"
+    },
+    {
+      "description": "Cosmetics Collection - 30% discount on beauty products",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-31",
+      "deal_code": "FASHION002",
+      "saving_amount": "$80",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Beauty Cosmetics"
+    },
+    {
+      "description": "Wedding Dress - 25% off on bridal gowns and accessories",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-30",
+      "deal_code": "FASHION003",
+      "saving_amount": "$500",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Bridal Boutique"
+    },
+    {
+      "description": "Accessories - 35% discount on jewelry and handbags",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "FASHION004",
+      "saving_amount": "$150",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Accessories World"
+    },
+    {
+      "description": "Athletic Wear - 30% off on sports and fitness clothing",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "FASHION005",
+      "saving_amount": "$120",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Sports Fashion"
+    },
+    {
+      "description": "Formal Wear - 25% discount on business and formal attire",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-06-30",
+      "deal_code": "FASHION006",
+      "saving_amount": "$180",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "Formal Wear Co"
+    },
+    {
+      "description": "Shoes Collection - 40% off on footwear for all occasions",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "FASHION007",
+      "saving_amount": "$100",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Shoe Store"
+    },
+    {
+      "description": "Perfume - 30% discount on luxury fragrances",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-05-31",
+      "deal_code": "FASHION008",
+      "saving_amount": "$90",
+      "deal_location": "Washington",
+      "deal_pincode": "98101",
+      "deal_vendor": "Fragrance World"
+    },
+    {
+      "description": "Kids Fashion - 35% off on children's clothing and accessories",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-07-31",
+      "deal_code": "FASHION009",
+      "saving_amount": "$75",
+      "deal_location": "Massachusetts",
+      "deal_pincode": "02101",
+      "deal_vendor": "Kids Fashion"
+    },
+    {
+      "description": "Seasonal Collection - 25% discount on seasonal clothing",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-08-31",
+      "deal_code": "FASHION010",
+      "saving_amount": "$140",
+      "deal_location": "Pennsylvania",
+      "deal_pincode": "19101",
+      "deal_vendor": "Seasonal Fashion"
+    }
+  ],
+  "gadgets": [
+    {
+      "description": "Smartphone - 30% off on latest smartphone models",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-06-30",
+      "deal_code": "GADGET001",
+      "saving_amount": "$400",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "Tech Store"
+    },
+    {
+      "description": "Laptop - 25% discount on business and gaming laptops",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-31",
+      "deal_code": "GADGET002",
+      "saving_amount": "$500",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Computer World"
+    },
+    {
+      "description": "Kitchen Appliances - 35% off on cooking and food prep gadgets",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-30",
+      "deal_code": "GADGET003",
+      "saving_amount": "$200",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Kitchen Gadgets"
+    },
+    {
+      "description": "Office Equipment - 30% discount on productivity gadgets",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "GADGET004",
+      "saving_amount": "$150",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Office Supplies Pro"
+    },
+    {
+      "description": "Home Entertainment - 40% off on TVs and audio systems",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "GADGET005",
+      "saving_amount": "$600",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Home Entertainment"
+    },
+    {
+      "description": "Smart Home - 25% discount on IoT devices and automation",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-06-30",
+      "deal_code": "GADGET006",
+      "saving_amount": "$300",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "Smart Home Solutions"
+    },
+    {
+      "description": "Gaming Console - 20% off on gaming systems and accessories",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "GADGET007",
+      "saving_amount": "$100",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Gaming Store"
+    },
+    {
+      "description": "Camera Equipment - 35% discount on photography gadgets",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-05-31",
+      "deal_code": "GADGET008",
+      "saving_amount": "$400",
+      "deal_location": "Washington",
+      "deal_pincode": "98101",
+      "deal_vendor": "Camera World"
+    },
+    {
+      "description": "Fitness Gadgets - 30% off on health and fitness technology",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-07-31",
+      "deal_code": "GADGET009",
+      "saving_amount": "$120",
+      "deal_location": "Massachusetts",
+      "deal_pincode": "02101",
+      "deal_vendor": "Fitness Tech"
+    },
+    {
+      "description": "Mobile Accessories - 40% discount on phone and tablet accessories",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-08-31",
+      "deal_code": "GADGET010",
+      "saving_amount": "$80",
+      "deal_location": "Pennsylvania",
+      "deal_pincode": "19101",
+      "deal_vendor": "Mobile Accessories"
+    }
+  ],
+  "entertainment": [
+    {
+      "description": "Movie Tickets - 50% off on all movie theater tickets",
+      "start_date": "2024-01-15",
+      "expiry_date": "2024-06-30",
+      "deal_code": "ENTERTAIN001",
+      "saving_amount": "$15",
+      "deal_location": "California",
+      "deal_pincode": "90210",
+      "deal_vendor": "Cinema Plus"
+    },
+    {
+      "description": "Restaurant Dining - 30% discount on fine dining experiences",
+      "start_date": "2024-02-01",
+      "expiry_date": "2024-05-31",
+      "deal_code": "ENTERTAIN002",
+      "saving_amount": "$60",
+      "deal_location": "New York",
+      "deal_pincode": "10001",
+      "deal_vendor": "Fine Dining Group"
+    },
+    {
+      "description": "Family Day Out - 40% off on amusement park tickets",
+      "start_date": "2024-01-20",
+      "expiry_date": "2024-04-30",
+      "deal_code": "ENTERTAIN003",
+      "saving_amount": "$80",
+      "deal_location": "Texas",
+      "deal_pincode": "78701",
+      "deal_vendor": "Amusement Parks"
+    },
+    {
+      "description": "Children's Amusement - 35% discount on kids entertainment centers",
+      "start_date": "2024-03-01",
+      "expiry_date": "2024-08-31",
+      "deal_code": "ENTERTAIN004",
+      "saving_amount": "$45",
+      "deal_location": "Florida",
+      "deal_pincode": "33101",
+      "deal_vendor": "Kids Entertainment"
+    },
+    {
+      "description": "Concert Tickets - 25% off on live music performances",
+      "start_date": "2024-02-15",
+      "expiry_date": "2024-07-31",
+      "deal_code": "ENTERTAIN005",
+      "saving_amount": "$75",
+      "deal_location": "Illinois",
+      "deal_pincode": "60601",
+      "deal_vendor": "Concert Tickets Pro"
+    },
+    {
+      "description": "Bowling Alley - 30% discount on bowling and arcade games",
+      "start_date": "2024-01-25",
+      "expiry_date": "2024-06-30",
+      "deal_code": "ENTERTAIN006",
+      "saving_amount": "$25",
+      "deal_location": "Colorado",
+      "deal_pincode": "80202",
+      "deal_vendor": "Bowling Centers"
+    },
+    {
+      "description": "Escape Room - 40% off on puzzle and adventure games",
+      "start_date": "2024-03-15",
+      "expiry_date": "2024-09-30",
+      "deal_code": "ENTERTAIN007",
+      "saving_amount": "$35",
+      "deal_location": "Arizona",
+      "deal_pincode": "85001",
+      "deal_vendor": "Escape Room Adventures"
+    },
+    {
+      "description": "Mini Golf - 25% discount on family golf activities",
+      "start_date": "2024-02-10",
+      "expiry_date": "2024-05-31",
+      "deal_code": "ENTERTAIN008",
+      "saving_amount": "$20",
+      "deal_location": "Washington",
+      "deal_pincode": "98101",
+      "deal_vendor": "Mini Golf Centers"
+    },
+    {
+      "description": "Karaoke Night - 30% off on singing and entertainment packages",
+      "start_date": "2024-01-30",
+      "expiry_date": "2024-07-31",
+      "deal_code": "ENTERTAIN009",
+      "saving_amount": "$30",
+      "deal_location": "Massachusetts",
+      "deal_pincode": "02101",
+      "deal_vendor": "Karaoke Bars"
+    },
+    {
+      "description": "Comedy Club - 35% discount on stand-up comedy shows",
+      "start_date": "2024-02-20",
+      "expiry_date": "2024-08-31",
+      "deal_code": "ENTERTAIN010",
+      "saving_amount": "$40",
+      "deal_location": "Pennsylvania",
+      "deal_pincode": "19101",
+      "deal_vendor": "Comedy Clubs"
+    }
+  ]
+}

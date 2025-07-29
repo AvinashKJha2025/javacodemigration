@@ -1,0 +1,132 @@
+[
+  {
+    "user_id": "U001",
+    "user_name": "Sarah Johnson",
+    "user_gender": "Female",
+    "user_location": "New York, NY",
+    "user_pincode": "10001",
+    "user_preferences": {
+      "travel": true,
+      "entertainment": true,
+      "events": true,
+      "shopping": true
+    }
+  },
+  {
+    "user_id": "U002",
+    "user_name": "Michael Chen",
+    "user_gender": "Male",
+    "user_location": "Los Angeles, CA",
+    "user_pincode": "90210",
+    "user_preferences": {
+      "travel": true,
+      "entertainment": true,
+      "events": false,
+      "shopping": true
+    }
+  },
+  {
+    "user_id": "U003",
+    "user_name": "Emily Rodriguez",
+    "user_gender": "Female",
+    "user_location": "Miami, FL",
+    "user_pincode": "33101",
+    "user_preferences": {
+      "travel": true,
+      "entertainment": false,
+      "events": true,
+      "shopping": true
+    }
+  },
+  {
+    "user_id": "U004",
+    "user_name": "David Thompson",
+    "user_gender": "Male",
+    "user_location": "Chicago, IL",
+    "user_pincode": "60601",
+    "user_preferences": {
+      "travel": false,
+      "entertainment": true,
+      "events": true,
+      "shopping": true
+    }
+  },
+  {
+    "user_id": "U005",
+    "user_name": "Jessica Williams",
+    "user_gender": "Female",
+    "user_location": "Austin, TX",
+    "user_pincode": "73301",
+    "user_preferences": {
+      "travel": true,
+      "entertainment": true,
+      "events": true,
+      "shopping": false
+    }
+  },
+  {
+    "user_id": "U006",
+    "user_name": "Robert Kim",
+    "user_gender": "Male",
+    "user_location": "Seattle, WA",
+    "user_pincode": "98101",
+    "user_preferences": {
+      "travel": true,
+      "entertainment": false,
+      "events": false,
+      "shopping": true
+    }
+  },
+  {
+    "user_id": "U007",
+    "user_name": "Amanda Davis",
+    "user_gender": "Female",
+    "user_location": "Denver, CO",
+    "user_pincode": "80201",
+    "user_preferences": {
+      "travel": false,
+      "entertainment": true,
+      "events": true,
+      "shopping": false
+    }
+  },
+  {
+    "user_id": "U008",
+    "user_name": "Christopher Lee",
+    "user_gender": "Male",
+    "user_location": "Boston, MA",
+    "user_pincode": "02101",
+    "user_preferences": {
+      "travel": false,
+      "entertainment": false,
+      "events": true,
+      "shopping": true
+    }
+  },
+  {
+    "user_id": "U009",
+    "user_name": "Nicole Brown",
+    "user_gender": "Female",
+    "user_location": "Phoenix, AZ",
+    "user_pincode": "85001",
+    "user_preferences": {
+      "travel": true,
+      "entertainment": true,
+      "events": false,
+      "shopping": false
+    }
+  },
+  {
+    "user_id": "U010",
+    "user_name": "Daniel Wilson",
+    "user_gender": "Male",
+    "user_location": "Nashville, TN",
+    "user_pincode": "37201",
+    "user_preferences": {
+      "travel": false,
+      "entertainment": false,
+      "events": false,
+      "shopping": true
+    }
+  }
+] 
